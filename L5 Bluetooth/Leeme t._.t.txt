@@ -1,0 +1,1 @@
+En este espacio te dejamos un par de carpetas donde en la primera contiene el código totalmente funcional como de costumbre y la carpeta comprimida es la aplicación móvil desarrollada en app inventor para esta lección... Que te diviertas ;)
