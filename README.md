@@ -5,7 +5,7 @@ El Unit Kit ESP32 Básico es un kit de electrónica enfocado a desarrollar 10 pr
 
 El Unit Kit ESP32 es ideal para crear diferentes proyectos de electrónica, desde la instalación del Arduino IDE, encender tu primer led , entendimiento de resistencia pull-Up & pull-Down, lectura de información (analógico / digital), modulación por PWM, conexión vía Bluetooth, realización de servidor Web y manejo de actuadores por medio de este mismo servidor ; entre otros proyectos interesantes que te pondrán a prueba así como aprender los principios de funcionamiento de cada uno de los elementos que incorpora el kit.
 
-![Image](https://github.com/user-attachments/assets/89a47565-6014-47c0-afb1-461bfa43dc1f)
+![Image](https://github.com/user-attachments/assets/6fc03be4-9f29-4e1d-aff1-2c7ea2c024f6)
 
 En este repositorio encontraras los programas cuya explicacion e implementacion tambien encontraras en el siguiente enlace https://uelectronics.com/wp-content/uploads/2025/05/Manual-Kit-ESP32-Basico-V1.pdf
 
